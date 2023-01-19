@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything i'll happy to help
 - 📫 How to reach me: 
-
-<br />
 <a href="https://ibb.co/zftBzKj"><img align="right" width="50%" height="50%" src="https://i.ibb.co/YjV1xvY/image-one.jpg" alt="image-one" border="0"></a>
 
 
