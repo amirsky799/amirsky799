@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 <br />
-<img align="right" alt="" src="https://ibb.co/zftBzKj" />
+<a href="https://ibb.co/zftBzKj"><img align="right" src="https://i.ibb.co/YjV1xvY/image-one.jpg" alt="image-one" border="0"></a>
+
 
 
