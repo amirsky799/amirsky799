@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" alt="" src="https://ibb.co/zftBzKj" />
 
 
