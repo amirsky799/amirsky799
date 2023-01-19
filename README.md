@@ -1,6 +1,6 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&vCenter=true&width=435&lines=My+name+is+Amirhossein;I'm+Frontend+Developer;And+React+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&vCenter=true&width=435&lines=My+Name+Is+Amirhossein+Zamani;I'm+Frontend+Developer;And+React+Developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue)
 
@@ -56,5 +56,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirsky799&show_icons=true&theme=radical)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=amirsky799&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
