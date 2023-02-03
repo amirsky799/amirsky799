@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue)
 
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning ` Next.js ` and ` Typescript `
 - 💬 Ask me about anything i'll happy to help
 - 📫 How to reach me: 
 
