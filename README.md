@@ -1,8 +1,6 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&vCenter=true&width=435&lines=My+Name+Is+Amirhossein+Zamani;I'm+Frontend+Web+Developer;And+React+Developer)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&vCenter=true&width=485&lines=My+Name+Is+Amirhossein+Zamani;I'm+Frontend+Web+Developer;And+React+Developer)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning ` Next.js ` and ` Typescript `
